@@ -1,0 +1,32 @@
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+textarea {
+	resize: none;
+	vertical-align: middle;
+}
+
+/*HEADER*/
+	header {
+		background: #1F1E1D;
+		height: auto;
+		overflow: hidden;
+		font-family: Andale Mono, monospace;
+	}
+
+/*BODY*/
+	.body {
+		margin: 0;
+		background-image: url("/myMessenger/img/theme/footer_lodyas.png");
+	}
+
+	body {
+		margin: 0;
+	}
+
+
