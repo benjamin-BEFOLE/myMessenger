@@ -2,7 +2,7 @@
     "name": "vendor-name/messenger",
     "description": "Permet à des utilisateurs de s'envoyer des messages",
     "require": {
-        "wisembly/elephant.io": "v3.3.1"
+        "wisembly/elephant.io": "~3.0"
     },
     "authors": [
         {
