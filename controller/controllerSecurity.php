@@ -3,9 +3,8 @@
 	// Ouverture d'une session  
 	session_start();
 
-
 	/**
-	* Affiche la vue de la page d'accueil
+	* Affiche la vue de la page de sécurité
 	* @return void
 	*/
 	function index () {
@@ -23,7 +22,7 @@
 			$data = array(
 				'head'		=> VIEW . DS . 'head-accueil.php',
 				'header' => VIEW . DS . 'header.php',
-				'content' => VIEW . DS . 'accueil.php',
+				'content' => VIEW . DS . 'security.php',
 				'footer' => file_get_contents(VIEW . DS . 'footer.php'),
 				);
 			$view = generateView(VIEW . DS . 'template.php', $data);
@@ -32,7 +31,3 @@
 			echo $view;
 		}
 	}
-
-	
-
-	

@@ -49,6 +49,28 @@
 	line-height: 30px;
 }
 
+/*ACCUEIL*/
+.title {
+	width: 100%;
+	color: #EEEEEE;
+	text-align: center;
+}
+
+.paragraph {
+	width: 100%;
+	color: #CDCDCD;
+	text-align: justify;
+}
+
+.footer-accueil {
+	display: inline-block;
+	min-height: 50px;
+	width: 100%;
+	line-height: 50px;
+	color: #CDCDCD;
+	text-align: center;
+}
+
 /*FORMULAIRE*/
 .title-form {
 	margin: 20px 0;

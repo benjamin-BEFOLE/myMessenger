@@ -6,16 +6,16 @@
 					<i class="glyphicon glyphicon-menu-hamburger"></i>
 				</div>
 				<ul id="menu" class="l-menu">
-					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="#">fonctionnalités</a></li>
-					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="#">télécharger</a></li>
-					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="#">sécurité</a></li>
-					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="#">s'inscrire</a></li>
-					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="#">se connecter</a></li>
+					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="Accueil">accueil</a></li>
+					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="Functionality">fonctionnalités</a></li>
+					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="Security">sécurité</a></li>
+					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="Inscription">s'inscrire</a></li>
+					<li class="l-list-menu"><a class="elm-menu th-link-grey" href="Connexion">se connecter</a></li>
 				</ul>
 				<ul class="l-navbar-horiz is-hide">
-					<li class="l-elm-navbar-horiz"><a class="btn-nav-horiz th-link-grey" href="#">fonctionnalités</a></li>
-					<li class="l-elm-navbar-horiz"><a class="btn-nav-horiz th-link-grey" href="#">télécharger</a></li>
-					<li class="l-elm-navbar-horiz"><a class="btn-nav-horiz th-link-grey" href="#">sécurité</a></li>
+					<li class="l-elm-navbar-horiz"><a class="btn-nav-horiz th-link-grey" href="Accueil">accueil</a></li>
+					<li class="l-elm-navbar-horiz"><a class="btn-nav-horiz th-link-grey" href="Functionality">fonctionnalités</a></li>
+					<li class="l-elm-navbar-horiz"><a class="btn-nav-horiz th-link-grey" href="Security">sécurité</a></li>
 				</ul>
 			</div>
 			<div class="l-navbar-right">

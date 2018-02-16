@@ -1,7 +1,7 @@
 <div class="l-wrap-accueil">
 	<div id="body" class="l-centered">
 		<div class="container-fluid">
-			<h1 class="title">Accueil</h1>
+			<h1 class="title">Sécurité</h1>
 			<p class="paragraph">
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

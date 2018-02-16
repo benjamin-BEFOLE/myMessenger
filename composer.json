@@ -1,5 +1,5 @@
 {
-    "name": "vendor-name/messenger",
+    "name": "vendor-name/myMessenger",
     "description": "Permet à des utilisateurs de s'envoyer des messages",
     "require": {
         "wisembly/elephant.io": "~3.0"
