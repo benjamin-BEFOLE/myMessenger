@@ -1,3 +1,8 @@
+Description
+===========
+**myMessenger** est une application web permettant à ses utilisateurs de s'envoyer des messages en temps réel. Les utilisateurs disposent d'un profil qu'ils peuvent modifier. Un système de notifications est mis en place pour informer les utilisateurs des messages non lus.
+
+
 Serveur (Node.js)
 =================
 1. Installer le module **socket.io** :	*npm install socket.io --save* 
