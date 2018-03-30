@@ -18,7 +18,7 @@ Serveur (PHP)
 =================
 ## Pour installer **wisembly/elephant.io**
 1. Installer **composer** dans le projet: 	`curl -s http://getcomposer.org/installer | php`
-2. Installer via **composer** :		php composer.phar install
+2. Installer via **composer** :		`php composer.phar install`
 
 
 
