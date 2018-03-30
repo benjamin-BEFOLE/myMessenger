@@ -21,9 +21,9 @@
 		{
 			$data = array(
 				'head'		=> VIEW . DS . 'head-accueil.php',
-				'header' => VIEW . DS . 'header.php',
-				'content' => VIEW . DS . 'functionality.php',
-				'footer' => file_get_contents(VIEW . DS . 'footer.php'),
+				'header' 	=> VIEW . DS . 'header.php',
+				'content' 	=> VIEW . DS . 'functionality.php',
+				'footer' 	=> VIEW . DS . 'footer.php',
 				);
 			$view = generateView(VIEW . DS . 'template.php', $data);
 

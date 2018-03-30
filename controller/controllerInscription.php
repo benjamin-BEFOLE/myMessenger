@@ -28,7 +28,7 @@
 					'head'		=> VIEW . DS . 'head.php',
 					'header' 	=> VIEW . DS . 'header-icon-home.php',
 					'content' 	=> VIEW . DS . 'inscription.php',
-					'footer' 	=> ''
+					'footer' 	=> VIEW . DS . 'footer.php'
 					);
 				$view = generateView(VIEW . DS . 'template.php', $data);
 
@@ -54,7 +54,7 @@
 			'emailError' 		=> $emailError,
 			'userNameError' 	=> $userNameError,
 			'passwordError' 	=> $passwordError,
-			'footer' 			=> ''
+			'footer' 			=>  VIEW . DS . 'footer.php'
 			);
 		$view = generateView(VIEW . DS . 'template.php', $data);
 

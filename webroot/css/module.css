@@ -64,11 +64,13 @@
 
 .footer-accueil {
 	display: inline-block;
-	min-height: 50px;
+	min-height: 20px;
 	width: 100%;
-	line-height: 50px;
+	padding: 15px 0;
+	line-height: 20px;
 	color: #CDCDCD;
 	text-align: center;
+	vertical-align: middle;
 }
 
 /*FORMULAIRE*/

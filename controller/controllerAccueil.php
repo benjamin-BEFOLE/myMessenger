@@ -22,9 +22,9 @@
 		{
 			$data = array(
 				'head'		=> VIEW . DS . 'head-accueil.php',
-				'header' => VIEW . DS . 'header.php',
-				'content' => VIEW . DS . 'accueil.php',
-				'footer' => file_get_contents(VIEW . DS . 'footer.php'),
+				'header' 	=> VIEW . DS . 'header.php',
+				'content' 	=> VIEW . DS . 'accueil.php',
+				'footer' 	=> VIEW . DS . 'footer.php',
 				);
 			$view = generateView(VIEW . DS . 'template.php', $data);
 

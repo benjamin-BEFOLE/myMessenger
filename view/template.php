@@ -8,7 +8,7 @@
 			<?php  
 				require_once $header;
 				include_once $content;
-				echo $footer;
+				require_once $footer;
 			?>
 		</div>
 	</body>

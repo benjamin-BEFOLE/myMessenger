@@ -2,7 +2,7 @@
 	<div class="l-centered-login">
 		<div class="l-login-wrap-logo">
 			<div class="container-fluid">
-				<img class="login-logo" src="/myMessenger/webroot/img/paper-plane.png">
+				<img class="login-logo" src="/myMessenger/webroot/img/theme/paper-plane.png">
 				<h1 class="login-title-logo">INSCRIPTION</h1>
 			</div>
 		</div>

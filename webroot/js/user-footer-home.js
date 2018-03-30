@@ -1,6 +1,6 @@
 ENTER = 13;
 
-// Fonction tirée de :
+// Fonction inspirée de :
 // https://stackoverflow.com/questions/19170083/automatically-resize-text-area-based-on-content
 function autoheight(a) {
     if (!$(a).prop('scrollTop')) {

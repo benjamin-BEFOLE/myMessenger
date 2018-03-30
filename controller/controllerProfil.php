@@ -25,7 +25,7 @@
 				'content' 	=> VIEW . DS . 'user' . DS . 'profil.php',
 				'path' 		=> $path,
 				'class' 	=> ($info[0] < $info[1])?'profil-img-width':'profil-img-height',
-				'footer' 	=> ''
+				'footer' 	=> VIEW . DS . 'footer.php'
 				);
 
 			$view = generateView(VIEW . DS . 'template.php', $data);

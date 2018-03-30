@@ -12,8 +12,8 @@ var io = require('socket.io').listen(server);
 io.sockets.on('connection', function (socket) {
 	// Réception message de PHP
 	socket.on('emitPHP', function (data) {
+		// Envoi des données aux utilisateurs
 		socket.broadcast.emit(data.receiver, data);
-		socket.broadcast.emit('popo', data);
 	})
 });
 

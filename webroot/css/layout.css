@@ -118,7 +118,7 @@
 	display: table-cell; 
 	vertical-align: middle;
 	width: 100vw;
-	height: calc(100vh - 50px);
+	height: calc(100vh - 100px);
 }
 
 .l-centered-login {
@@ -161,7 +161,6 @@
 
 .l-home-wrap-right {
 	float: left;
-	/*min-width: 400px;*/
 	width: calc(100% - 360px);
 	height: 100vh;
 	border-style: solid;
